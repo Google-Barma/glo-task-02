@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/glo-task-02/static/css/main.f7f32fd7.chunk.css",
+    "main.js": "/glo-task-02/static/js/main.ff2dea25.chunk.js",
+    "main.js.map": "/glo-task-02/static/js/main.ff2dea25.chunk.js.map",
+    "runtime-main.js": "/glo-task-02/static/js/runtime-main.af4a3077.js",
+    "runtime-main.js.map": "/glo-task-02/static/js/runtime-main.af4a3077.js.map",
+    "static/js/2.bb6b8afe.chunk.js": "/glo-task-02/static/js/2.bb6b8afe.chunk.js",
+    "static/js/2.bb6b8afe.chunk.js.map": "/glo-task-02/static/js/2.bb6b8afe.chunk.js.map",
+    "index.html": "/glo-task-02/index.html",
+    "static/css/main.f7f32fd7.chunk.css.map": "/glo-task-02/static/css/main.f7f32fd7.chunk.css.map",
+    "static/js/2.bb6b8afe.chunk.js.LICENSE.txt": "/glo-task-02/static/js/2.bb6b8afe.chunk.js.LICENSE.txt",
+    "static/media/1.bc9b8764.svg": "/glo-task-02/static/media/1.bc9b8764.svg",
+    "static/media/2.c8bae1a7.svg": "/glo-task-02/static/media/2.c8bae1a7.svg",
+    "static/media/3.9aaaafed.svg": "/glo-task-02/static/media/3.9aaaafed.svg",
+    "static/media/4.4fadcd8e.svg": "/glo-task-02/static/media/4.4fadcd8e.svg",
+    "static/media/style.css": "/glo-task-02/static/media/phone.b232b8cd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af4a3077.js",
+    "static/js/2.bb6b8afe.chunk.js",
+    "static/css/main.f7f32fd7.chunk.css",
+    "static/js/main.ff2dea25.chunk.js"
+  ]
+}
