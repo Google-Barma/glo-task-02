@@ -1,8 +1,10 @@
+import Logo from './Logo';
+
 export default function Footer() {
   return (
     <footer>
       <div className="footer">
-        <div className="footer-logo"></div>
+        <Logo className="footer-logo" />
         <div className="footer-company">
           <span>© 2020 XXXcompany. Все права защищены.</span>
         </div>

@@ -1,4 +1,5 @@
 import Wrapper from './Layouts/Wrapper';
+import Logo from './Logo';
 
 export default function Header() {
   return (
@@ -6,7 +7,7 @@ export default function Header() {
       <Wrapper>
         <div className="header">
           <a href="#">
-            <div className="header-logo"></div>
+            <Logo className="header-logo" />
           </a>
           <a href="tel:888" className="header-phone"></a>
           <div className="header-phonelink">
