@@ -9,25 +9,25 @@ export default function FeaturesSlider() {
       <div className="features-slider_items">
         <div className="features-slider_item">
           <div className="features-img">
-            <img src={bgImage01} />
+            <img src={bgImage01} alt="one" />
           </div>
           <div className="features-feature">Первое целевое преимущество</div>
         </div>
         <div className="features-slider_item">
           <div className="features-img">
-            <img src={bgImage02} />
+            <img src={bgImage02} alt="two" />
           </div>
           <div className="features-feature">Второе целевое преимущество</div>
         </div>
         <div className="features-slider_item">
           <div className="features-img">
-            <img src={bgImage03} />
+            <img src={bgImage03} alt="three" />
           </div>
           <div className="features-feature">Третье целевое преимущество</div>
         </div>
         <div className="features-slider_item">
           <div className="features-img">
-            <img src={bgImage04} />
+            <img src={bgImage04} alt="four" />
           </div>
           <div className="features-feature">Четвертое целевое преимущество</div>
         </div>

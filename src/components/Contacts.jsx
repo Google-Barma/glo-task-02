@@ -1,3 +1,5 @@
+import Input from './Elems/Input';
+
 export default function Contacts() {
   return (
     <section className="contact">
@@ -8,9 +10,12 @@ export default function Contacts() {
             Оставьте номер телефона, и мы перезвоним вам
           </div>
           <form action="../mailer.smart.php" className="contact-form">
-            <input type="text" placeholder="Ваше имя" />
+            <Input type="text" placeholder="Ваше имя" />
+            <Input type="tel" placeholder="Телефон" />
+            <Input type="tel" placeholder="E-mail" />
+            {/* <input type="text" placeholder="Ваше имя" />
             <input type="tel" placeholder="Телефон" />
-            <input type="email" placeholder="E-mail" />
+            <input type="email" placeholder="E-mail" /> */}
             <button className="btn contact-btn">
               <span>Позвоните мне</span>
             </button>
